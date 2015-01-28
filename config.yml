@@ -1,0 +1,4 @@
+---
+sqlite_path: "status.db"
+lx_command: "/usr/local/bin/xunlei-lixian/lixian_cli.py"
+download_dir: "/Users/venj/Downloads/lx"
